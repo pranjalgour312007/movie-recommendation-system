@@ -7,6 +7,9 @@ A content-based movie recommendation system built using Python and machine learn
 **Try the application here:**
 
 [🎥 Movie Recommendation System](https://movie-recommendation-system-kjedcsvgrt2rcfcesakyo9.streamlit.app/)
+## 📸 Application Screenshot
+
+![Movie Recommendation System](movie-recommender.png)
 
 ## ✨ Features
 
